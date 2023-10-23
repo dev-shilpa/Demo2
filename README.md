@@ -1,2 +1,3 @@
 # Demo2
-this is my second repo
+this is my second repo<b>
+We are getting started learning Git
